@@ -1,4 +1,5 @@
-🧾TGPars
+🧾TG_Tools
+
 Telegram spamer, inviter and parser
 ===================================
 # Installation
