@@ -4,8 +4,8 @@ Telegram spamer, inviter and parser
 
 # Usage
 * Pars
-  * `python pars.py`
+  * `python parsing.py`
 * Invite
-  * `python invite.py`
+  * `python inviter.py`
 * Spam
-  * `python smsbot.py`
+  * `python spam_bot.py`
