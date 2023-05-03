@@ -5,7 +5,6 @@ Telegram spamer, inviter and parser
 * Fill config.data
 * Run any script
 
-===================================
 # Usage
 * Pars
   * `python parsing.py`
